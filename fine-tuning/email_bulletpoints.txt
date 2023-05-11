@@ -1,6 +1,9 @@
-Dado o seguinte cenário, escreva o e-mail perfeito.
+Dado o seguinte cenário, escreva a resposta perfeita para a duvida na plataforma ZENGAi.
 
 CENÁRIO:
 <<SCENARIO>>
-
-E-MAIL:
+Caso seja enviada uma pergunta como embarcar na plataforma ZENGAi a resposta perfeita será
+Resposta:
+Conhecer angular xx
+Criar sua própria esteira para suas funcionalidades
+Solicitar os acessos para a plataforma através dos grupos XXX_YYY
